@@ -20,6 +20,7 @@
     <modules>
         <module>keepup-boot</module>
         <module>keepup-cloud-config-server</module>
+        <module>keepup-cloud-config-client</module>
     </modules>
 
     <dependencies>
