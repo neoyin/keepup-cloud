@@ -1,4 +1,4 @@
-package me.keepup.neo.keepupcloudconfigserver;
+package me.keepup.neo.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

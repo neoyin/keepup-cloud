@@ -1,4 +1,4 @@
-package me.keepup.neo.keepupcloudconfigserver;
+package me.keepup.neo.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
